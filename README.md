@@ -1,3 +1,5 @@
+_NOTE: dyntp has been rendered obsolete as of 23w31a, with the addition of macros!_
+
 # What is dyntp?
 "dyntp", alias for Dynamic Teleport, is a datapack namespace used to teleport an entity dynamically by setting the relative integer distance to teleport in terms of x, y, and z.
 
